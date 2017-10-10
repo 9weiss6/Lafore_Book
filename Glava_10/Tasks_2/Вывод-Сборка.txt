@@ -1,0 +1,6 @@
+﻿1>------ Сборка начата: проект: Task_3, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl sort(char * *,int)" (?sort@@YAXPAPADH@Z) в функции _main
+1>D:\Project\C++ Projects\Book_Laforte R\Glava_10\Debug\Task_3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+1>Сборка проекта "Task_3.vcxproj" завершена с ошибкой.
+========== Сборка: успешно: 0, с ошибками: 1, без изменений: 0, пропущено: 0 ==========
