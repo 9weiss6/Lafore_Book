@@ -15,4 +15,4 @@
 
 
 
-[image]:http://clipart-library.com/image_gallery2/C-PNG-Clipart.png
+[image]:http://bookflow.ru/wp-content/uploads/2016/03/cpp-bookflow-768x371.png
