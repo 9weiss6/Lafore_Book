@@ -7,13 +7,10 @@ public:
 	virtual void show()
 	{
 		cout << "base\n";
-
 	}
 
 	/*
-
 	virtual void show() = 0;
-
 	*/
 };
 
@@ -41,7 +38,6 @@ int main()
 	Dev2 dv2;
 	Base* ptr;
 
-	
 	ptr = &dv1;
 	ptr->show();
 	ptr = &dv2;
