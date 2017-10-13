@@ -1,4 +1,4 @@
-![logo][image] 
+##Status: ![logo][image] 
 
 **Обучение по книге Роберта Лафоре "Объектно-ориентированное проектирование в С++"**
 
@@ -15,4 +15,4 @@
 
 
 
-[image]:http://bookflow.ru/wp-content/uploads/2016/03/cpp-bookflow-768x371.png
+[image]:https://travis-ci.org/9weiss6/Lafore_Book.svg?branch=master
